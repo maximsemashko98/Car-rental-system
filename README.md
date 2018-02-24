@@ -1,0 +1,2 @@
+# Car-rental-system
+Car Rental System. The client chooses from a list of car. Fills the order form, indicating passport data, the period of the lease. A customer pays for an order. Administrator registers the return of the vehicle. In the case of damage to the vehicle, the Administrator shall enter information and a bill for the repair. The administrator may reject the application, giving reasons for refusal.
